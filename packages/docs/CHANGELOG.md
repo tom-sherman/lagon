@@ -1,5 +1,11 @@
 # @lagon/docs
 
+## 0.3.4
+
+### Patch Changes
+
+- [#745](https://github.com/lagonapp/lagon/pull/745) [`82c5737`](https://github.com/lagonapp/lagon/commit/82c5737b4aecba78cf3d88362d9064254d773baa) Thanks [@QuiiBz](https://github.com/QuiiBz)! - Add vite-plugin-ssr example
+
 ## 0.3.3
 
 ### Patch Changes
